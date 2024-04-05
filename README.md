@@ -1,2 +1,3 @@
 # my-first-demo
- this is my first repository
+ tThis is my first repository
+Author- jhon deo
